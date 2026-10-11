@@ -2,7 +2,7 @@
   "name": "scarebot",
   "version": "1.0.0",
   "private": true,
-  "description": "ScareBot WIP for the Omniversal Discord server",
+  "description": "ScareBot for the Omniversal Discord server",
   "scripts": {
     "build": "tsc",
     "start": "node dist/index.js",
